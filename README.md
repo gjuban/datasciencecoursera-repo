@@ -1,1 +1,1 @@
-# datasciencecoursera-repo
+# Data science course project
